@@ -1,13 +1,18 @@
-h{
+h1{
                    font-size: 80px;
                   color: purple;
 }
 
 
 #especial{
-                   font-size: 80px;
-                   color: red;
+                   font-size: 50px;
+                   color: gren;
 }
+#special{
+                   font-size: 40px
+                   Coor: blue;
+}
+
 img{
                      height: 400px;
 
