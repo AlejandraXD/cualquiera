@@ -9,7 +9,7 @@ h1{
                    color: blue;
 }
 #special{
-                   font-size: 40px;
+                   font-size: 30px;
                    Color: red;
 }
 
@@ -22,6 +22,10 @@ h1{
                     font-size:30px;
                      color: red;
 }
+
+#finish{
+                     font-size:40px;
+                     color: purple;
 
 img{
                      height: 400px;
