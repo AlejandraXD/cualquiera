@@ -15,7 +15,12 @@ h1{
 
 #ingredientes{
                    font-size: 20px
-                   color:
+                   color: blue;
+}
+
+#ELABORACIÓN{  
+                    font-size:30px
+                     color: blue;
 }
 
 img{
